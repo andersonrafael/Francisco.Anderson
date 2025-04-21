@@ -5,7 +5,7 @@
 
 Desenvolvedor Frontend | Especialista em Interfaces Dinâmicas e Responsivas 
 
-Olá, rede! Sou um Desenvolvedor Frontend dedicado a transformar ideias em experiências digitais incríveis. Com expertise em HTML, CSS e JavaScript, construo bases sólidas para aplicações web e mobile. Além disso, utilizo :
+Olá, rede! Sou um Desenvolvedor Frontend dedicado a transformar ideias em experiências digitais incríveis. Com expertise em HTML, CSS e JavaScript, construo bases sólidas para aplicações web e mobile. Além disso, também uso :
 
 React Native para criar apps móveis eficientes e de alto desempenho.
 
