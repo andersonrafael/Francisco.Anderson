@@ -5,7 +5,7 @@
 
 Desenvolvedor Frontend | Especialista em Interfaces Dinâmicas e Responsivas 
 
-Olá, rede! Sou um Desenvolvedor Frontend dedicado a transformar ideias em experiências digitais incríveis. Com expertise em HTML, CSS e JavaScript, construo bases sólidas para aplicações web e mobile. Além disso, utilizo:
+Olá, rede! Sou um Desenvolvedor Frontend dedicado a transformar ideias em experiências digitais incríveis. Com expertise em HTML, CSS e JavaScript, construo bases sólidas para aplicações web e mobile. Além disso, utilizo :
 
 React Native para criar apps móveis eficientes e de alto desempenho.
 
@@ -32,9 +32,4 @@ Estou sempre em busca de novos desafios e oportunidades para contribuir com proj
 <br/>
 
 
-| --- | --- |
-
-
-## 🐍 Snake Game
-![snake gif](https://https://github.com/andersonrafael/andersonrafael/blob/output/github-snake-dark.svg?palette=github-dark)
 
